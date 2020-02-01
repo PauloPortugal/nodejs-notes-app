@@ -1,6 +1,7 @@
 # Node.js Notes App
 
-A 'yargs' interactive command line note app
+A 'yargs' interactive command line note app.
+This is part of "The Complete Node.js Developer Course" with Andrew Mead (mead.io).
 
 ## How to execute
 
